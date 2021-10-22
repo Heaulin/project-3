@@ -1,6 +1,7 @@
 # CryptoMaster
 
 # Preview
+![logo](https://cdn.discordapp.com/attachments/898283948860407819/900816588314382386/Screen_Shot_2021-10-21_at_2.43.18_PM.png)
 # Desctription
 CryptoMaster is a play investment game with virtual $100 which is given when users register for the website. Play the game for a week and able to see their weekly rankings by their profit. The market in the game will be same as real-time market(Stock or Cryptocurrency).
 
